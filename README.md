@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Andrew 👋
+# Hey, I'm Andrew 
 
 ### Estudiante de Ingeniería de Sistemas · Desarrollo Web · Tecnología & Cultura
 
